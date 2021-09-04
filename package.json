@@ -1,0 +1,15 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "Learning & testing data-structures",
+  "main": "linkedList.js",
+  "devDependencies": {
+    "chai": "4.3.4",
+    "mocha": "9.1.1"
+  },
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "author": "Brian Retamar",
+  "license": "ISC"
+}
